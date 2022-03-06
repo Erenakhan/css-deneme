@@ -1,0 +1,57 @@
+.box1{
+    width: 15%;
+    height: 30px;
+    background-color: aqua;
+    float:left ;
+    padding-left: 10%;
+
+
+}
+
+  
+
+.header{
+    width: 50%;
+    padding-left: 25%;
+}
+.conteiner{
+    width: 1000px;
+    height: 630px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.content{
+            float: left;
+            
+            width: 690px;
+            height: 600px;
+            margin-left: 10px;
+            
+}    
+.aside{
+    
+    float: left;
+    width: 300px;
+    height: 600px;
+}
+.resim1{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.yazi{
+    padding-left: 10px;
+    float: left;
+}
+
+
+.footer{
+    background-color: rgb(59, 53, 53);    
+    
+    height: 150px;
+    width: 1000px;
+    margin: auto;
+}
+.footerrenk{
+    background-color: rgb(59, 53, 53);
+    height: 150px;
+}
